@@ -17,7 +17,6 @@ To follow along, run `rails db:migrate` and `rails db:seed` to set up your
 database and example data.
 
 ## Overriding the Default Rails View
-
 Leaving off from the solution of the last lesson, the `index` action rendered all
 birds:
 
@@ -64,7 +63,7 @@ Hello Mourning Dove
 ```
 
 This isn't very fancy, but **_this is actually enough for us to start using our
-JavaScript skills and access with a `fetch()` request_**. 
+JavaScript skills and access with a `fetch()` request_**.
 
 To confirm this is working, we need a frontend to send a request to our Rails
 app. In this main directory of this code-along, there is an HTML file, `example_frontend.html`, for
