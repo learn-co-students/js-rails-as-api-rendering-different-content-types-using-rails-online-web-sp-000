@@ -1,5 +1,5 @@
 # Rendering Different Content Types in Rails
-
+change.
 ## Learning Goals
 
 - Override the default Rails view
@@ -64,7 +64,7 @@ Hello Mourning Dove
 ```
 
 This isn't very fancy, but **_this is actually enough for us to start using our
-JavaScript skills and access with a `fetch()` request_**. 
+JavaScript skills and access with a `fetch()` request_**.
 
 To confirm this is working, we need a frontend to send a request to our Rails
 app. In this main directory of this code-along, there is an HTML file, `example_frontend.html`, for
