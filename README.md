@@ -14,7 +14,7 @@ content. In this lesson, we're going to look at some of the content types most
 useful to us as we build towards a Rails API.
 
 To follow along, run `rails db:migrate` and `rails db:seed` to set up your
-database and example data.
+database and example data.rr
 
 ## Overriding the Default Rails View
 
