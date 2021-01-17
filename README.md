@@ -1,4 +1,4 @@
-# Rendering Different Content Types in Rails
+## Rendering Different Content Types in Rails
 
 ## Learning Goals
 
